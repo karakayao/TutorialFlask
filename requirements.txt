@@ -1,5 +1,5 @@
 flask
 gunicorn
-decouple
+python-decouple
 instagrapi
 pillow
