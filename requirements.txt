@@ -3,3 +3,4 @@ gunicorn
 python-decouple
 instagrapi
 pillow
+moviepy
